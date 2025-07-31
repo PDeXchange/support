@@ -1,5 +1,5 @@
 name: Bug Report
-about: Report a bug to help us improve the powercloud/tritonserver image.
+description: Report a bug to help us improve the powercloud/tritonserver image.
 title: "[Tritonserver Bug]: "
 labels:
   - bug
