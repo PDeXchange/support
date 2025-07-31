@@ -1,4 +1,4 @@
-name: Bug Report
+name: Tritonserver Bug Report
 description: Report a bug to help us improve the powercloud/tritonserver image.
 title: "[Tritonserver Bug]: "
 labels:
